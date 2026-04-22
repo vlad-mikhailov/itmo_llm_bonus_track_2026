@@ -108,7 +108,7 @@ ai-adventure-guide/
 
 FAISS-индекс и эмбеддинги Wikivoyage не хранятся в Git из-за размера. Скачайте их с Google Drive:
 
-**→ [Скачать data-файлы (Google Drive)](ВСТАВЬ_ССЫЛКУ_НА_ГУГЛ_ДИСК)**
+**→ [Скачать data-файлы (Google Drive)](https://drive.google.com/drive/folders/1jJWPumvpW9k0c80gB8_sjZABgVnwHA4d?usp=sharing)**
 
 После скачивания положите файлы в папку `ai_guide/data/`:
 
@@ -195,3 +195,4 @@ Python 3.11, FastAPI, aiogram, sentence-transformers, FAISS, OpenRouter (DeepSee
 
 - [Product Proposal](docs/product-proposal.md) — метрики, сценарии использования, архитектура
 - [Governance](docs/governance.md) — риски, логирование, работа с ПДн, защита от инъекций
+
